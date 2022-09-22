@@ -17,6 +17,7 @@ display: flex;
 align-items: center;
 justify-content: left;
 
+
 }
 @media(max-width:768px){
 .slider .carousel-inner {
@@ -93,7 +94,7 @@ background-size:cover ;
 }
 } */
 .slider .carousel-one{
-background-image: url("../../../img/a.jpg");
+background-image: url("../../../img/2.jpg");
 
 }
 .slider .carousel-two{

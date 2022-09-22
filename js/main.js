@@ -84,7 +84,7 @@ $(function () {
         backToTopButton.classList.add('btnExit')
         setTimeout(function () {
           backToTopButton.style.display = 'none'
-        }, 250)
+        }, 10)
       }
     }
   }
@@ -99,7 +99,7 @@ $(function () {
     const targetPosition = 0
     const startPosition = window.pageYOffset
     const distance = targetPosition - startPosition
-    const duration = 350
+    const duration = 2000
     let start = null
 
     window.requestAnimationFrame(step)

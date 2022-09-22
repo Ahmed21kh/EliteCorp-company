@@ -29,12 +29,12 @@
               "node_modules/fontawesome-4.7/css/font-awesome.min.css"
             ],
             "scripts": [
-              "./js/wow.min.js",
-              "./js/main.js",
-              "./js/jquery-3.6.0.min.js",
-              "./js/jquery.countTo.js",
-              "./js/jquery.nicescroll.min.js",
-              "./js/popper.min.js"
+
+              "js/main.js",
+              "js/jquery-3.6.0.min.js",
+              "js/jquery.countTo.js",
+              "js/jquery.nicescroll.min.js",
+              "js/popper.min.js"
 
             ]
           },
